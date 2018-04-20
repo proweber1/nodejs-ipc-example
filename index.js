@@ -34,7 +34,7 @@ function makeProcessingThread(fName) {
         throw new Error('file name must be set');
 
     return new Promise((resolve, reject) => {
-        const p = fork('./thread.js', [fileName]);
+        const p = fork('./thread.js', [fName]);
         let result = undefined;
 
         p.on('message', processingResult => result = processingResult);
