@@ -1,0 +1,6 @@
+Alex 12000
+Simon 10000
+Vladimir 9480
+Max 50000
+Bil 7000000
+Mark 6000000000

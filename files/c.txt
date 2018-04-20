@@ -1,0 +1,5 @@
+Lora 92000
+Lari.B 90000000000
+Vladimir.P 100000000000
+Martin 34000
+Sara 6700
